@@ -10,10 +10,11 @@
 6. 📫 How to reach me: Twitter/X: @massa_blaise_
 7. 😄 Pronouns: He/Him
 8. ⚡ Fun fact: I find it fun learning the Russian language
-
+<!--
 <a href="https://github.com/massablaise/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=massablaise" theme="tokyonight />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=massablaise" />
 </a>
 <a href="https://github.com/massablaise/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massablaise&layout=compact&langs_count=8&card_width=30" />
 </a>
+-->
