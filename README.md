@@ -12,9 +12,9 @@
 8. ⚡ Fun fact: I find it fun learning the Russian language
 
 
-<a href="https://github.com/massablaise/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=massablaise" />
-</a>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=massablaise&show_icons=true&theme=tokyonight" 
+/>
 <!--
 <a href="https://github.com/massablaise/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massablaise&layout=compact&langs_count=8&card_width=30" />
