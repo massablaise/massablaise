@@ -1,7 +1,7 @@
 # 💡README
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👋👨🏿‍🦱 Hi, I’m @massablaise AKA Willy Wonka;📍I'm+from+Cameroon;🧠 Active+Learner;👂🏿I’m interested in tech talks...;👨🏿‍💻I’m currently learning a tech skill...;👓I’m looking to collab on JS projects...;" alt="Typing SVG" /></a></center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I'm+from+Cameroon;🧠Active+Learner;👂🏿I’m+interested+in+tech+talks...;👨🏿‍💻I’m+currently+learning+a+tech+skill...;👓I’m+looking+to+collab+on+JS+projects...;" alt="Typing SVG" /></a></center>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=massablaise&label=Profile%20Visits&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
