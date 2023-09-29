@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning a tech skill...
 - 💞️ I’m looking to collaborate on Javascript-related free and open source projects...
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=💻 Software+Engineering;📍From+Cameroon;❤️+😒 Software+Developing,;😎 Active+Learner;😌 Enjoy+engaging+in+interesting+tech+conversations"></a>
+</p>
+
 <!---
 massablaise/massablaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
