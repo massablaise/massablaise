@@ -1,10 +1,12 @@
 # 💡README
 <p align="center">
-   <img src="https://avatars.githubusercontent.com/u/104530207?v=4" style="border-radius:50%;">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 </p>
 
+<!--- <img src="https://avatars.githubusercontent.com/u/104530207?v=4"> --->
+
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+Am+From+Cameroon+🇨🇲;🧠I+Am+An+Active+Learner;👂🏿Interested+In+Tech+Talks...;👨🏿‍💻I’m+Currently+Learning+A+Tech+Skill...;👓Looking+To+Collab+On+JS+Projects...;" style="font-color="green;" alt="Typing SVG" /></a></center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+Am+From+Cameroon+🇨🇲;🧠I+Am+An+Active+Learner;👂🏿Interested+In+Tech+Talks...;👨🏿‍💻I’m+Currently+Learning+A+Tech+Skill...;👓Looking+To+Collab+On+JS+Projects...;" alt="Typing SVG" /></a></center>
 </p>
 
 ## Profile Visits
