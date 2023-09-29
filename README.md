@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+am+from+Cameroon+🇨🇲;🧠Active+Learner;👂🏿Interested+in+tech+talks...;👨🏿‍💻I’m+currently+learning+a+tech+skill...;👓Looking+to+collab+on+JS+projects...;" alt="Typing SVG" /></a></center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+Am+From+Cameroon+🇨🇲;🧠I'm+Active+Learner;👂🏿Interested+In+Tech+Talks...;👨🏿‍💻I’m+Currently+Learning+A+Tech+Skill...;👓Looking+To+Collab+On+JS+Projects...;" alt="Typing SVG" /></a></center>
 </p>
 
 ## Profile Visits
@@ -16,7 +16,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🌐 My Social:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/massa_blaise_)
+<p align="center">
+  </a>
+    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
+  </a>
+</p>
 
 # 🛡️ Badges:
 [![An image of @massablaise's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/massablaise)](https://holopin.io/@massablaise)
@@ -42,10 +47,11 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=massablaise&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massablaise&layout=compact&theme=radical&show_owner=true)
+
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=massablaise&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=massablaise&theme=onedark)](https://github.com/massablaise/github-profile-trophy)
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
