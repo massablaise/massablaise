@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+am+from+Cameroon🇨🇲;🧠Active+Learner;👂🏿I’m+interested+in+tech+talks...;👨🏿‍💻I’m+currently+learning+a+tech+skill...;👓I’m+looking+to+collab+on+JS+projects...;" alt="Typing SVG" /></a></center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I+am+from+Cameroon+🇨🇲;🧠Active+Learner;👂🏿Interested+in+tech+talks...;👨🏿‍💻I’m+currently+learning+a+tech+skill...;👓Looking+to+collab+on+JS+projects...;" alt="Typing SVG" /></a></center>
 </p>
 
 ## Profile Visits
