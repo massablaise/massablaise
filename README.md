@@ -1,10 +1,15 @@
 # 💡README
+<p align="center">
+   <img src="https://avatars.githubusercontent.com/u/104530207?v=4">
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+SemiBold&pause=1000&width=435&lines=👨🏿‍🦱Hi,+I’m+@massablaise+/+Willy+Wonka;📍I'm+from+Cameroon;🧠Active+Learner;👂🏿I’m+interested+in+tech+talks...;👨🏿‍💻I’m+currently+learning+a+tech+skill...;👓I’m+looking+to+collab+on+JS+projects...;" alt="Typing SVG" /></a></center>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=massablaise&label=Profile%20Visits&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+## Profile Visits
+![visitor](https://profile-counter.glitch.me/massablaise/count.svg)
+
 <!---
 massablaise/massablaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -39,13 +44,13 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=massablaise&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=massablaise&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme:
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </p>
